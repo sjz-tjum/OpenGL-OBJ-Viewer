@@ -1,0 +1,4 @@
+build/*
+!build/OpenGL_OBJ_Viewer.exe
+*.log
+*.zip

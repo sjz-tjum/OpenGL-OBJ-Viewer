@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run OpenGL OBJ Viewer",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/OpenGL_OBJ_Viewer.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/mincw/bin/gdb.exe",
+            "preLaunchTask": "build (MinGW)",
+            "noDebug": true
+        }
+    ]
+}
